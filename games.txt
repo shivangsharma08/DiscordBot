@@ -1,0 +1,4 @@
+1) Rock Paper Scissors
+   -> To play rock paper scissors with the bot, just type !rps followed by your choice(rock, paper or scissors).
+2) Ask Me Anything
+3) Roll the dice

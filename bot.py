@@ -24,7 +24,7 @@ async def hello(ctx):
 
 @client.command()
 async def about(ctx):
-    await ctx.send("Hi there! My name is Shivang. I am from New Delhi, India. I develop web applications and produce fire ass beats 🔥🎵")
+    await ctx.send("Write something about yourself here")
 
 # Code to get the list of games
 
